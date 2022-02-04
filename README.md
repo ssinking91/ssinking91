@@ -5,8 +5,13 @@
 <h1 align="center">Hi 👋, I'm Hang Min Shin</h1>
 <h3 align="center">A passionate frontend developer from Korea</h3>
 
-<p align="left">
-</p>
+- 🌱 I’m currently learning **Node.JS, TypeScript**
+
+- 📝 I regularly write articles on [https://blog.naver.com/tlsgkdals71](https://blog.naver.com/tlsgkdals71)
+
+- 📫 How to reach me **tlsgkdals71@naver.com**
+
+- ⚡ Fun fact **I think I am little funny**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
