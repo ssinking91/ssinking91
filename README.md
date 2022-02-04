@@ -5,7 +5,7 @@
 <br>
 <h1 align="center">Hi 👋, I'm Hang Min Shin</h1>
 <h3 align="center">A passionate frontend developer from Korea</h3>
-
+<br>
 - 🌱 I’m currently learning **Node.JS, TypeScript**
 
 - 📝 I regularly write articles on [https://blog.naver.com/tlsgkdals71](https://blog.naver.com/tlsgkdals71)
