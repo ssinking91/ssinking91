@@ -20,4 +20,4 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer)
